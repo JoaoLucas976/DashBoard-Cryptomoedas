@@ -47,4 +47,4 @@ Este projeto é voltado para aprendizado e portfólio. Feedbacks e sugestões de
 
 **Autor:** João Lucas Santos Azevedo  
 📧 **Contato:** joaolucasazevedo976@gmail.com
-🌐 **LinkedIn:** [Seu LinkedIn Aqui](https://www.linkedin.com/in/joao-lucas-dados/)
+🌐 **LinkedIn:** [João Lucas Santos Azevedo](https://www.linkedin.com/in/joao-lucas-dados/)
