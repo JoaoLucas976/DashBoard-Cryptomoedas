@@ -24,10 +24,9 @@ O dashboard contém as seguintes informações e métricas:
 
 ## 📁 **Arquivos no Repositório**
 - `Dashboard_Crypto.pbix`: Arquivo do Power BI com o projeto completo.
-- `Dados_Criptomoedas.xlsx`: Base de dados fictícia ou real utilizada no projeto.
 - `Script_API.py`: Script Python para coleta de dados via API.
 - `README.md`: Este arquivo explicando o projeto.
-- `Imagens/`: Capturas de tela do dashboard para visualização prévia.
+- `Dashboard_Cryptomoedas.png`: Captura de tela do dashboard para visualização prévia.
 
 ## 🚀 **Como Abrir o Projeto**
 1. Certifique-se de que o arquivo `Dados_Criptomoedas.xlsx` ou a API está configurada corretamente.
